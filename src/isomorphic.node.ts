@@ -1,4 +1,4 @@
-import * as util from "util";
+import * as util from "node:util";
 import { getDeepKeys } from "./to-json";
 import { ErrorPOJO, OnoError } from "./types";
 

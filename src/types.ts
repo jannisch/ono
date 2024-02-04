@@ -1,4 +1,4 @@
-import { inspect } from "util";
+import { inspect } from "node:util";
 
 /**
  * The default export of the "ono" module.
